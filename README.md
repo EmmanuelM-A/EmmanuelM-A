@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Emmanuel, an aspiring Software Developer.</h1>
-<p>Eager to learn, innovate, and contribute to software that empowers individuals and makes a real difference.</p>
+<p>
+	Enthusiastic about software development and driven to create impactful solutions that better individuals' lives. Currently, I'm building the <a href="https://github.com/EmmanuelM-A/graph-insight-tool" target="_blank">Graph Inisght Tool</a>, an AI-powered web application that demystifies data visualization for everyone.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
