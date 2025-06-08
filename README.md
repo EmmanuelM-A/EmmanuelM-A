@@ -1,9 +1,5 @@
 <h1>Hi 👋, I'm Emmanuel, an aspiring Software Developer.</h1>
-
-<img src="images/banner.png" alt="GitHub Banner" width="100%" />
-
 <p>Eager to learn, innovate, and contribute to software that empowers individuals and makes a real difference.</p>
-
 <h2>🚀 Languages and Tools I Use</h2>
 
 <p>
