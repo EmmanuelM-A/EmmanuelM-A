@@ -41,6 +41,6 @@ I strive to build software that is both purposeful and impactful.
 
 # 📫 Contact Me
 
-🌐 Portfolio: **Comming Soon!**
+🌐 Portfolio: [My Portfolio](https://emmanuelm-a.github.io/my-portfolio/)
 
 💼 LinkedIn: [Emmanuel Maduka Agbeze](www.linkedin.com/in/agbeze-ema)
