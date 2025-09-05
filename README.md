@@ -31,7 +31,7 @@ I strive to build software that is both purposeful and impactful.
 
 # 🚀 Current Ventures
 
-- 🔧 Building: **RAG Chatbot**, **Graph Insight Tool**, **Blog API**
+- 🔧 Building: **DocuChat**, **Graph Insight Tool**
 - 📚 Learning: AI, LLMs, Retrieved Augmented Generation (RAG), System Design
 
 # 📈 GitHub Stats
