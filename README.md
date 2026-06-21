@@ -1,13 +1,53 @@
 
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<br><br>
 
-<h3 align="center">Aspiring Software Developer | Tech Enthusiast | AI & IoT Explorer | Digital Craftsman</h3>
+<p align="center">
+  	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=34&duration=1&pause=5000&color=8B5CF6&center=true&vCenter=true&width=440&height=45&lines=Emmanuel+Maduka+Agbeze" alt="Typing SVG" /></a>
+</p>
 
-# 🧑‍💻 About Me
+<p align="center">
+  	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=Full-stack+Software+Developer+%26+AI%2FML+Engineer;4%2B+years+of+coding+experience;Learning+by+building%2C+growing+by+exploring" alt="Typing SVG" /></a>
+</p>
 
-Hello, I’m Emmanuel — an aspiring software developer passionate about crafting meaningful, user-focused digital solutions. 
-I’m driven by the potential of technology to solve real-world problems and enhance everyday life. With a strong commitment to continuous learning, 
-I strive to build software that is both purposeful and impactful.
+<!-- Social icons section -->
+<p align="center">
+	<a href="www.linkedin.com/in/agbeze-ema"><img width="40px" alt="LinkedIn" title="LinkedIn" src="./resources/linkedin-brands-solid.svg"/></a>
+	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	<a href="madukaagbeze.ea@gmail.com"><img width="40px" alt="Email" title="Email" src="./resources/envelope-solid.svg"/></a>
+	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	<a href=""><img width="40px" alt="Portfolio" title="Portfolio" src="./resources/globe-solid.svg"/></a>
+</p>
+
+<br>
+
+<!-- Who am I section -->
+<h2 align="center"> Who Am I</h2>
+<p align="center">
+	<samp>
+		A full-stack software developer and AI/ML engineer, skilled in building scalable systems and turning complex problems into clean, working solutions. Experienced across the full development lifecycle, from architecture and design through deployment of production-ready applications. Focused on building software that solve real problems and create a real impact for users.
+	</samp>
+</p>
+
+<br>
+
+
+<h2 align="center">Current Interests & Ventures </h2>
+
+<p align="center">
+	<a href="">
+		<img alt="RAG" title="Retriveal Augmented Generation" src="https://custom-icon-badges.demolab.com/badge/-Retriveal Augmented Generation-gray?style=for-the-badge&logoColor=white&logo=rocket"/>
+	</a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
+
 
 💼 LinkedIn: [Emmanuel Maduka Agbeze](www.linkedin.com/in/agbeze-ema)
 
