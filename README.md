@@ -2,9 +2,7 @@
 <br><br>
 
 <p align="center">
-  	<a href="https://github.com/EmmanuelM-A">
-		<img src="./resources/title.svg" alt="Emmanuel Maduka Agbeze" />
-	</a>
+  	<a href="https://github.com/EmmanuelM-A"><img src="./resources/title.svg" alt="Emmanuel Maduka Agbeze" /></a>
 </p>
 
 <p align="center">
@@ -13,17 +11,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-	<a href="www.linkedin.com/in/agbeze-ema">
-		<img width="40px" alt="LinkedIn" title="LinkedIn" src="./resources/linkedin-brands-solid.svg"/>
-	</a>
+	<a href="www.linkedin.com/in/agbeze-ema"><img width="40px" alt="LinkedIn" title="LinkedIn" src="./resources/linkedin-brands-solid.svg"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="madukaagbeze.ea@gmail.com">
-		<img width="40px" alt="Email" title="Email" src="./resources/envelope-solid.svg"/>
-	</a>
+	<a href="madukaagbeze.ea@gmail.com"><img width="40px" alt="Email" title="Email" src="./resources/envelope-solid.svg"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="">
-		<img width="40px" alt="Portfolio" title="Portfolio" src="./resources/globe-solid.svg"/>
-	</a>
+	<a href=""><img width="40px" alt="Portfolio" title="Portfolio" src="./resources/globe-solid.svg"/></a>
 </p>
 
 <br>
