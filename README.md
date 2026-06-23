@@ -23,7 +23,7 @@
 <!-- Who am I section -->
 <p align="center">
 	<samp>
-		Skilled in building scalable systems and turning complex problems into clean, working solutions. Experienced across the full development lifecycle, from architecture and design through deployment of production-ready applications. Focused on building software that solve real problems and create a real impact for users.
+		Skilled in building scalable systems and turning complex problems into clean, working solutions. Experienced across the full development lifecycle, from architecture and design through deployment of production-ready applications. Focused on building software that solves real problems and drives real impact for users.
 	</samp>
 </p>
 
