@@ -11,9 +11,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-	<a href="https://www.linkedin.com/in/agbeze-ema"><img width="40px" alt="LinkedIn" title="LinkedIn" src="./resources/linkedin-brands-solid.svg"/></a>
+	<a href="https://www.linkedin.com/in/agbeze-ema" target="_blank" rel="noopener noreferrer"><img width="40px" alt="LinkedIn" title="LinkedIn" src="./resources/linkedin-brands-solid.svg"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://emmanuelma.dev/"><img width="40px" alt="Portfolio" title="Portfolio" src="./resources/globe-solid.svg"/></a>
+	<a href="mailto:madukaagbeze.ea@gmail.com" target="_blank" rel="noopener noreferrer"><img width="40px" alt="Email" title="Email" src="./resources/envelope-solid.svg"/></a>
+	&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	<a href="https://emmanuelma.dev/" target="_blank" rel="noopener noreferrer"><img width="40px" alt="Portfolio" title="Portfolio" src="./resources/globe-solid.svg"/></a>
 </p>
 
 <br>
