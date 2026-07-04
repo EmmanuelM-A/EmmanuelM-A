@@ -155,7 +155,7 @@
 <br/><br/>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=EmmanuelM-A&show_icons=true&hide_border=true&theme=jolly&count_private=false&locale=en" alt="EmmanuelM-A" />
-	<img src="https://streak-stats.demolab.com?user=EmmanuelM-A&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-	<img alt="EmmanuelM-A's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelM-A&langs_count=8&layout=compact&theme=jolly&hide_border=true&hide=Jupyter%20Notebook" height="192px"/>
+	<img alt="EmmanuelM-A's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=EmmanuelM-A&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&count_private=true&locale=en" height="192px" />
+	<img alt="EmmanuelM-A's GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=EmmanuelM-A&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+	<img alt="EmmanuelM-A's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelM-A&langs_count=8&layout=compact&theme=jolly&hide_border=true&hide=Jupyter%20Notebook" height="192px" />
 </p>
